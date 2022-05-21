@@ -31,4 +31,5 @@ Tu n'as pas besoin d'être "expert.e" ou de "maîtriser".
 👉 C'est encore une excellente manière de progresser et de contribuer (on peut coder à plusieurs en même temps, en se donnant RDV (session Live) ou de son côté quand on le souhaite)
 
 ### 🌟 Les grandes idées du moment : 🌟
-- Une App' en react native + firebase façon réseau social : réunissant des codeuses souhaitant utiliser le pair programming, transmettre des témoignages de parcours, ...
+- Une App' en react native + firebase façon réseau social : réunissant des codeuses souhaitant utiliser le pair programming, transmettre des témoignages de parcours, avoir un espace de discussion (https://github.com/JaiUnePoteDev/reseau-developpeuses : il s'agit d'un build mais une version entière zippée est disponible ici : https://drive.google.com/file/d/1pQFH7aEXmcTanx7I-S-QOKD7YKBVNcD4/view?usp=sharing
+--> Pour la lancer, il suffit de mettre "expo start" en ligne de commande, puis "w" ( si aperçu web)).
