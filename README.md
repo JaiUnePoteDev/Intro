@@ -25,10 +25,10 @@ C'est justement pour grandir, s'améliorer que ce compte existe.
 Les plus expérimenté.e.s peuvent aussi partager.
 Tu n'as pas besoin d'être "expert.e" ou de "maîtriser".
 
-🕊️🕊️ ## Retrouve "J'ai une pote dev'" sur Twitter : @une_pote_dev 🕊️🕊️
+## 🕊️🕊️ Retrouve "J'ai une pote dev'" sur Twitter : @une_pote_dev 🕊️🕊️
 
-🤖 ## Tenté.e par le Pair Programming ? rejoins également les projets en cours : https://codesandbox.io/u/JaiUnePoteDev
+## 🤖 Tenté.e par le Pair Programming ? rejoins également les projets en cours : https://codesandbox.io/u/JaiUnePoteDev
 👉 C'est encore une excellente manière de progresser et de contribuer (on peut coder à plusieurs en même temps, en se donnant RDV (session Live) ou de son côté quand on le souhaite)
 
-🌟 ### Les grandes idées du moment :
+### 🌟 Les grandes idées du moment : 🌟
 - Une App' en react native + firebase façon réseau social : réunissant des codeuses souhaitant utiliser le pair programming, transmettre des témoignages de parcours, ...
