@@ -40,4 +40,4 @@ Tu n'as pas besoin d'être "expert.e" ou de "maîtriser".
  </a>
  </p>
  
- [![J'ai Une Pote Dev'](https://github-readme-stats.vercel.app/api?username=JaiUnePoteDev)](https://github.com/JaiUnePoteDev/github-readme-stats)
+ [![J'ai Une Pote Dev'](https://github-readme-stats.vercel.app/api?username=JaiUnePoteDev&theme=outrun&show_icons=true)](https://github.com/JaiUnePoteDev/github-readme-stats)
