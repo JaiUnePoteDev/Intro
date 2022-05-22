@@ -33,3 +33,11 @@ Tu n'as pas besoin d'être "expert.e" ou de "maîtriser".
 ### 🌟 Les grandes idées du moment : 🌟
 - Une App' en react native + firebase façon réseau social : réunissant des codeuses souhaitant utiliser le pair programming, transmettre des témoignages de parcours, avoir un espace de discussion (https://github.com/JaiUnePoteDev/reseau-developpeuses : il s'agit d'un build mais une version entière zippée est disponible ici : https://drive.google.com/file/d/1pQFH7aEXmcTanx7I-S-QOKD7YKBVNcD4/view?usp=sharing
 --> Pour la lancer, il suffit de mettre "expo start" en ligne de commande, puis "w" ( si aperçu web)).
+
+<p align="center">
+  <a href="https://github.com/JaiUnePoteDev">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+ </a>
+ </p>
+ 
+ [![J'ai Une Pote Dev'](https://github-readme-stats.vercel.app/api?username=JaiUnePoteDev)](https://github.com/JaiUnePoteDev/github-readme-stats)
