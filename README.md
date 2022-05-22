@@ -13,7 +13,7 @@ C'est un monde qui respecte tous les êtres vivants, bienveillant. Il respecte a
 Un espace de partage et de mise en commun des connaissances.
 
 # Comment s'y prendre ?
-En codant des projets à visée sociétale ou en créant des projets de recherche. Peut importe que ce soit abouti ou non, l'objectif est de partager des pistes, des essais, des prototypes ou simplement des pensées et idées.
+En codant des projets à visée sociétale ou en créant des projets de recherche. Peu importe que ce soit abouti ou non, l'objectif est de partager des pistes, des essais, des prototypes ou simplement des pensées et idées.
 💪 Si tu as un dépôt à partager que tu souhaiterais soumettre, ou si tu as connaissance de dépôts à forker (créés par des codeuses et personnes Queer), n'hésite pas ! 💪
 
 # Pourquoi transmettre un dépôt ici alors que chacun.e possède déjà son propre compte ?
