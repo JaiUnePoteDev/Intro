@@ -1,4 +1,4 @@
-### BIENVENUE AMIE CODEUSE 🖖
+### BIENVENUE AMIE CODEUSE & ADELPHE-IT 🖖
 
 # Un endroit safe pour y partager des projets
 "J'ai une pote dev'" souhaite réunir des codeuses (et personnes Queer) pour créer des projets contribuant à coder un monde meilleur, un monde réellement inclusif.
@@ -16,21 +16,23 @@ Un espace de partage et de mise en commun des connaissances.
 En codant des projets à visée sociétale ou en créant des projets de recherche. Peu importe que ce soit abouti ou non, l'objectif est de partager des pistes, des essais, des prototypes ou simplement des pensées et idées.
 💪 Si tu as un dépôt à partager que tu souhaiterais soumettre, ou si tu as connaissance de dépôts à forker (créés par des codeuses et personnes Queer), n'hésite pas ! 💪
 
-# Pourquoi transmettre un dépôt ici alors que chacun.e possède déjà son propre compte ?
-C'est une manière de réunir à un même endroit les dépôts ayant une visée sociétale, philosophique, de recherche.
-Il n'y a aucune obligation, tu partages ou suggères des forks uniquement si tu en as envie.
-
 ## TRES IMPORTANT : SI TU PENSES QUE TU ES JUNIOR, SI TU NE TE SENS PAS CAPABLE : SACHE QUE 💛 TU AS VRAIMENT TA PLACE ICI 💛
 C'est justement pour grandir, s'améliorer que ce compte existe.
 Les plus expérimenté.e.s peuvent aussi partager.
 Tu n'as pas besoin d'être "expert.e" ou de "maîtriser".
 
 ## 🕊️🕊️ Retrouve "J'ai une pote dev'" sur Twitter : @une_pote_dev 🕊️🕊️
+## Tu veux chiller devant des screencasts ? viens sur Youtube : https://www.youtube.com/@unePoteDev
+
+https://user-images.githubusercontent.com/105969133/224652332-eb7855a0-4798-4f3c-8ce2-50bbc70ce032.mp4
+
 
 ## 🤖 Tenté.e par le Pair Programming ? rejoins également les projets en cours : https://codesandbox.io/u/JaiUnePoteDev
 👉 C'est encore une excellente manière de progresser et de contribuer (on peut coder à plusieurs en même temps, en se donnant RDV (session Live) ou de son côté quand on le souhaite)
 
 ### 🌟 Les grandes idées du moment : 🌟
+- Une API qui permet de découvrir des femmes ou personnes non binaires du monde entier : https://github.com/JaiUnePoteDev/API-femmes-a-connaitre
+
 - Une App' en react native + firebase façon réseau social : réunissant des codeuses souhaitant utiliser le pair programming, transmettre des témoignages de parcours, avoir un espace de discussion (https://github.com/JaiUnePoteDev/reseau-developpeuses : il s'agit d'un build mais une version entière zippée est disponible ici : https://drive.google.com/file/d/1pQFH7aEXmcTanx7I-S-QOKD7YKBVNcD4/view?usp=sharing
 --> Pour la lancer, il suffit de mettre "expo start" en ligne de commande, puis "w" ( si aperçu web)).
 
